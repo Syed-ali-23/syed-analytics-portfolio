@@ -1,7 +1,7 @@
 # Project portfolio — Syed Ali
 
 
-**TL;DR:** A collection of data analytics projects demonstrating Snowflake, dbt, Python, Tableau/PowerBI, and healthcare incentive analytics.
+**Description:** A collection of data analytics projects demonstrating Snowflake, dbt, Python, Tableau/PowerBI, and healthcare incentive analytics.
 
 
 ## Projects
